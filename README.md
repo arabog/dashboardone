@@ -1,2 +1,2 @@
 # dashboardone
-https://arabog.github.io/dashboardone/
+https://dashboardone-ten.vercel.app/
