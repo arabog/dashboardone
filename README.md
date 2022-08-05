@@ -29,13 +29,13 @@ Use a CloudFront origin access identity (OAI) to access the S3 bucket.
 Origin Access Identity user represents the CloudFront service. The policy 
 is a JSON file that defines the access permissions to the bucket object.
 
-Origin domain: `select d s3 bucket u created`.
-Origin path: `leave blank`
-S3 bucket access: `Yes use OAI (bucket can restrict access to only CloudFront)`
-Create new OAI(origin access identity)
-Bucket policy: `Yes, update the bucket policy`
-Viewer protocol policy: `Redirect HTTP to HTTPS`
-Leave other as default
+Origin domain: `select d s3 bucket u created`.  
+Origin path: `leave blank`  
+S3 bucket access: `Yes use OAI (bucket can restrict access to only CloudFront)`  
+Create new OAI(origin access identity)  
+Bucket policy: `Yes, update the bucket policy`  
+Viewer protocol policy: `Redirect HTTP to HTTPS`  
+Leave other as default  
 
 
 
