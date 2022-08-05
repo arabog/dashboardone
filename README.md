@@ -6,7 +6,7 @@ https://dashboardone-ten.vercel.app/
 
 https://d21nkuqzcxkysp.cloudfront.net/index.html
 
-![Alt text](/dashboardone/S3 and CloudFront.png?raw=true "Dashboard")
+![Alt text](/dashboardone/S3-CloudFront.png?raw=true "Dashboard")
 
 # Steps
 ## S3 & Cloud Front
